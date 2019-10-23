@@ -1,8 +1,0 @@
-extraction:
-  python:
-    after_prepare:
-    - "export PATH=$LGTM_WORKSPACE/tools:$PATH"
-    - "ls -al"
-    - "echo helloworld"
-    - "cat /etc/hostname"
-    - "pwd"
