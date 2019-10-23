@@ -3,4 +3,4 @@
 import subprocess
 
 
-subprocess.call(["whoami"])
+subprocess.call(["echo","helloworld"])
